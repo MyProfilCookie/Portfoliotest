@@ -20,7 +20,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/design-desk.jpeg";
-
 const imageAltText = "desktop with books and laptop";
 
 /**
@@ -31,13 +30,13 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "🎉",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
@@ -52,6 +51,18 @@ const projectList = [
     title: "GitHub Codespaces and github.dev",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "GitHub.dev",
+    description:
+      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  { 
+    title: "My Portfolio",
+    description:
+      "This is my portfolio, it's a website that I created to showcase my work and my skills",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
